@@ -67,10 +67,8 @@ Run npm start command
 
 ## 🚀 About us
 - Jaskaran singh jaggi
-- Ujjwal Verma
-- Apurba Shakya
-- Anurag Garg
-- Tanvi
+
+
 
 ## 🔗 Links
 - Jaskaran Singh Jaggi
