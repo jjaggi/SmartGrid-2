@@ -16,7 +16,7 @@ We aim to use **predictive analytics** to output expected electricity usage and 
 We’ll develop a **real-time automatic notification alert web based system**  for saving electricity.Along with a daily, monthly and yearly analysis of data about electricity usage. We aim to use predictive analytics to output expected electricity usage and with the help of smart home integration, the resources using maximum amount of energy. This system can also interpret whether the house is empty with the number of mobile devices connected to the home wifi and accordingly minimize the use of non essential appliances.The adaption is supported by **enabling regional languages over standardized english** to increase adoption and using pictorial representation for easier understanding of collected data. The flagship feature enables electricity cost estimation for the current cycle and **minimizing phantom electricity** use, **saving costs by around 6 %.**
 
 Steps involved:
-Cleaning : 
+*Cleaning : 
   Datetime index created after converting the data to a day-by-day conigeration.
   Homogenized the features for minimizing bias between features.
   Filled missing entries that may have been caused due to transmission or storage losses or due to error in sensors by filling with data from T-1 day.
