@@ -93,7 +93,7 @@ def fn(datetime="2011-11-27T00:00:00.000Z",
 
 # loop = asyncio.new_event_loop()
 # asyncio.set_event_loop(loop)
-st.header("Fish Weight Prediction App")
+st.header("Energy prediction Time series forcasting App")
 st.text_input("Enter your Name: ", key="name")
 data = pd.read_csv("https://github.com/jjaggi/SmartGrid-2/raw/main/household_power_consumption_days.csv")
 #load label encoder
